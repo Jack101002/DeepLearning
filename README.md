@@ -44,6 +44,9 @@ Produces the final prediction such as:
 
 ---
 
+![Neural Network](https://github.com/user-attachments/assets/583b8798-1860-4271-9391-3ed963e3b919)
+
+
 ## -> Purpose of Deep Learning
 
 Deep learning is designed to solve **complex real-world problems** where traditional algorithms struggle.
