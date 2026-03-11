@@ -1,9 +1,5 @@
 # 🧠 Deep Learning
 
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Artificial_Neural_Network.svg" width="450">
-</p>
-
 ## 📖 Definition
 
 **Deep Learning** is a subset of **Machine Learning** and **Artificial Intelligence (AI)** that uses **multi-layered neural networks** to automatically learn patterns from large amounts of data.
@@ -17,10 +13,6 @@ In simple terms:
 ---
 
 ## 🧠 Neural Network Structure
-
-<p align="center">
-<img src="https://miro.medium.com/max/1400/1*BHouRj5Yl0vCjZ4C0SxkPg.png" width="500">
-</p>
 
 A deep learning model typically consists of three types of layers:
 
@@ -145,10 +137,6 @@ Deploy the trained model into real-world applications such as:
 ---
 
 ## 📊 Deep Learning Workflow
-
-<p align="center">
-<img src="https://miro.medium.com/max/1200/1*6N7q5XQxJ0v9z0p2y9JH2w.png" width="550">
-</p>
 
 Workflow:
 
