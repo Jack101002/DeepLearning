@@ -6,6 +6,9 @@
 
 Unlike traditional machine learning methods that require manual feature extraction, deep learning models **learn hierarchical representations directly from raw data** such as images, text, audio, and video.
 
+<img width="512" height="342" alt="DeepLearning" src="https://github.com/user-attachments/assets/300667e6-65a0-4a4f-934e-0846cf7f27ff" />
+
+
 In simple terms:
 
 > Deep Learning allows computers to learn complex patterns and make intelligent decisions by mimicking the way the human brain processes information.
@@ -206,7 +209,3 @@ deep-learning-project/
 B.Tech – Electronics and Communication Engineering
 
 ---
-
-## ⭐ Support
-
-If you found this project helpful, consider **starring the repository** to support the project.
