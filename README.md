@@ -1,6 +1,6 @@
-# 🧠 Deep Learning
+# Deep Learning
 
-## 📖 Definition
+## Definition
 
 **Deep Learning** is a subset of **Machine Learning** and **Artificial Intelligence (AI)** that uses **multi-layered neural networks** to automatically learn patterns from large amounts of data.
 
@@ -12,11 +12,11 @@ In simple terms:
 
 ---
 
-## 🧠 Neural Network Structure
+## Neural Network Structure
 
 A deep learning model typically consists of three types of layers:
 
-### 1️⃣ Input Layer
+### 1️. Input Layer
 
 Receives the raw data such as:
 
@@ -25,13 +25,13 @@ Receives the raw data such as:
 * Audio signals
 * Numerical datasets
 
-### 2️⃣ Hidden Layers
+### 2️. Hidden Layers
 
 These layers perform mathematical transformations and extract important features from the data.
 
 Multiple hidden layers make the network **"deep"**.
 
-### 3️⃣ Output Layer
+### 3️. Output Layer
 
 Produces the final prediction such as:
 
@@ -41,7 +41,7 @@ Produces the final prediction such as:
 
 ---
 
-## 🎯 Purpose of Deep Learning
+## -> Purpose of Deep Learning
 
 Deep learning is designed to solve **complex real-world problems** where traditional algorithms struggle.
 
@@ -57,7 +57,7 @@ Main purposes include:
 
 ---
 
-## ⚙️ Steps to Implement Deep Learning
+## -> Steps to Implement Deep Learning
 
 ### Step 1 — Data Collection
 
@@ -121,7 +121,7 @@ Deploy the trained model into real-world applications such as:
 
 ---
 
-## 📚 Popular Deep Learning Libraries
+## -> Popular Deep Learning Libraries
 
 | Library          | Description                                          |
 | ---------------- | ---------------------------------------------------- |
@@ -136,7 +136,7 @@ Deploy the trained model into real-world applications such as:
 
 ---
 
-## 📊 Deep Learning Workflow
+## -> Deep Learning Workflow
 
 Workflow:
 
@@ -156,7 +156,7 @@ Deployment
 
 ---
 
-## 🚀 Example Applications
+## -> Example Applications
 
 Deep learning powers many modern technologies:
 
@@ -169,7 +169,7 @@ Deep learning powers many modern technologies:
 
 ---
 
-## 🛠 Example Tech Stack
+## -> Example Tech Stack
 
 ```
 Python
@@ -182,7 +182,7 @@ Jupyter Notebook
 
 ---
 
-## 📂 Example Project Structure
+## -> Example Project Structure
 
 ```
 deep-learning-project/
@@ -200,7 +200,7 @@ deep-learning-project/
 
 ---
 
-## 👨‍💻 Author
+## -> Author
 
 **Jacob Chacko**
 B.Tech – Electronics and Communication Engineering
